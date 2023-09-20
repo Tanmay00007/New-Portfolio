@@ -43,8 +43,8 @@ function Main() {
 
                     
                 </div>
-                <div className="flex place-content-center mt-7 ">
-                        <div className="flex flex-row sm:flex-col gap-4">
+                <div className="flex place-content-center mt-7 sm:mb-8 ">
+                        <div className="flex flex-row sm:flex-col sm:pb-8 gap-4">
                             <a rel="noreferrer" href="" target="_blank">
                                 <AiFillLinkedin size={40} className="cursor-pointer" />
                             </a>

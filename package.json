@@ -1,7 +1,7 @@
 {
-  "name": "New-Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://tanmay00007.github.io/New-Portfolio",
+  "homepage": "https://tanmay00007.github.io/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
